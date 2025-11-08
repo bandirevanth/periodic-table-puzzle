@@ -1,2 +1,2 @@
-# Morse Code
-Interactive Morse Code Decoder with clean and functional UI
+# Periodic Table Puzzle 
+Features a clean UI & scoring w/ timer. Enjoy!
